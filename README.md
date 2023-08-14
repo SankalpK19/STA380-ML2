@@ -1,5 +1,5 @@
 # STA380 ML part 2 - Take home assignment
-#### Group members: Sankalp Kulkarni (sk57727), Srishty Mishra (), Anmol Agarwal(aa96674), Aishwarya (ap63595)
+#### Group members: Sankalp Kulkarni (sk57727), Srishty Mishra (sm82386), Anmol Agrawal(aa96674), Aishwarya Parida (ap63595)
 
 Q1:Probablity Practise
 Q6:Market Segmentation 
@@ -16,7 +16,7 @@ Q4 : Visual Story telling 2:CapMetro data is answered in "Q4_Visual story tellin
 
 Q7 : The Reuters Corpus is answered in "Q7 The Reuters Corpus.ipynb" file
 
-Q8 : Association Rule Mining is in R file with name "Q8_Association Rule Mining.Rmd"
+Q8 : Association Rule Mining is in R file with name "Q8_Association Rule Mining.Rmd". The association rule graph image is attached separtely as "Q 8 Association Rules Image.png"
 
 Q9 : Image Classification using Neural nets is answered in the file "Q9 - Image classification.ipynb"
 
