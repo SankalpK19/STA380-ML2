@@ -1,5 +1,5 @@
 # STA380 ML part 2 - Take home assignment
-#### Group members: Sankalp Kulkarni (sk57727), Srishty Mishra (sm82386), Anmol Agrawal(aa96674), Aishwarya Parida (ap63595)
+#### Group members: Sankalp Kulkarni (sk57727), Shrishty Mishra (sm82386), Anmol Agrawal(aa96674), Aishwarya Parida (ap63595)
 
 Q1:Probablity Practise
 Q6:Market Segmentation 
